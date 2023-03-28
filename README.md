@@ -1,2 +1,2 @@
-# Furret Website
+# Furret_Website
  A website dedicated to the cute Pokemon Furret. He walks.
