@@ -1,7 +1,5 @@
 # AsoneFanmadePokemonRegion
-# Asone_Fanmade_Pokemon_Region
->>>>>>> 65b2dc03a5c8a509cfd7c62549c47cbc0b69bf49
- A website advertising/showing off a Pokemon fanmade game concept originally made by Truegreen7.
+# A website advertising/showing off a Pokemon fanmade game concept originally made by Truegreen7.
 =======
 # Ristau-Jordan-2
  ???
