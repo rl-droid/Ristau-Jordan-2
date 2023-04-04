@@ -30,6 +30,8 @@
   --</p>
   
   <p> An Exciting New Pokémon RPG exclusivly for the Nintendo Switch </p>
+    
+  <p> New mechanic called Poketactics </p>  
   
 </div>
     </body>
