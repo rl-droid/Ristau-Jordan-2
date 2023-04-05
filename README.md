@@ -1,7 +1,4 @@
 <html>
-<style>
-</style>
-
 <head>
 </head>
 
@@ -15,10 +12,7 @@
   <br>
 
   <div class="Title">
-
-    <h1> Pokemon </h>
-      <h> Jade and Amber <h1>
-
+    <h1> Pokemon Jade and Amber <h1>
           <img src="https://i.ytimg.com/vi/31vRxC5IuJ8/maxresdefault.jpg" alt="Picture of the games box art legendaries" width="1000">
   </div>
 
