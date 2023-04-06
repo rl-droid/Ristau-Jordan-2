@@ -2,6 +2,8 @@
 <head>
 </head>
 <body>
+  <a herf="???"> Go to Pokedex </a>
+  
   <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">Pokédex</a></li>
@@ -14,12 +16,14 @@
   
   <footer></footer>
   
-  <p> Meet the main characters! ??? and Gabi </p>
+  <h2> Meet the main characters! Gabe and Gabi </h2>
   
   <img src="https://pbs.twimg.com/media/E9aK9fzWYAIv1EP.jpg" alt="Trainers" width="1000">
 
   <p>At the start of the game you can choose whether you want to play as the boy or girl trainer shown here. Regardless of your choice, you'll be sure to have an exciteng adventure ahead of you.
 </p>
+  
+  <h2> The Legendaries </h2>
   
   <img src="https://i.pinimg.com/474x/f3/73/02/f37302426a0f0175f11296701d19ac1c.jpg" alt="Trainers" width="500">
   
@@ -29,29 +33,22 @@
   
 <img src="https://i.pinimg.com/474x/9a/c5/a1/9ac5a13281b37358088de71cb5557017.jpg" alt="Trainers" width="500"> 
   
+<h2> History of Asone </h2>
   <p> (Talk about lore with legendary pokemon) </p>
   <p> Shemorera and Azarera are the box art legendaries of Asone.  </p>
+   <p> Pokemon in Asone have esspecially high intelegence. past is important. fear is a strong theme along with the relationship b/w humans. Pokemon on rampages. Team ozone show. Violet and Amar. Your father is ozone villan. captin ozone. fude b/w human favor and pokemon favor, human and pokemon war. 3rd legend end war and brought peace. segregation issue.  </p>
+<p> Info from video 2. pokemon beserk from legend form. war. pokemon hystaria. beserk pokemon hystaria. battal acropolis </p>
   
-   <p> (Talk about lore with legendary pokemon) </p>
-  <p> Shemorera and Azarera are the box art legendaries of Asone.  </p>
-  </div>
+<h2> Team Ozone </h2>
+   <p> Evil team: Team Ozone </p>
+  <p> Team ozone holds a cover as trying to protect people from dangerous pokemon, however they steal pokemon from trainers claiming they are dangerous. A heroic/villonous seeming team. Protect people from powerful pokemon, cause conflict by making people fear pokemon. </p> 
+  <p> Team ozone holds a cover as trying to protect people from dangerous pokemon, however they steal pokemon from trainers claiming they are dangerous. A heroic/villonous seeming team. Protect people from powerful pokemon, cause conflict by making people fear pokemon. </p> 
   
-  <p> Gym leaders: Daniel, Tera, Layla, hakim, suri, noelle, Aden, Rafi. </p>
-  
-  <p> Evil team: Team Ozone </p>
-  <p> Team ozone holds a xover as trying to protect people from dangerous pokemon, however they steal pokemon from trainers claiming they are dangerous. A heroic/villonous seeming team. Protect people from powerful pokemon, cause conflict by making people fear pokemon. </p> 
-  
-  <p> professor Cedar </p>
-
-  <p> rival evan </p>
-
-  <p> Pokemon in Asone have esspecially high intelegence. ast is important. fear is a strong theme along with the relationship b/w humans. Pokemon on rampages. Team ozone show. Violet and Amar. Your father is ozone villan. captin ozone. fude b/w human favor and pokemon favor, human and pokemon war. 3rd legend end war and brought peace. segregation issue.  </p>
-
-<p> post game info </p>
-<p> Info from video 2. pokemon beserk from legend form. war. pokemon hystaria.</p>
-  
+<h2> Gym leaders/people </h2>
+    <p> Gym leaders: Daniel, Tera, Layla, hakim, suri, noelle, Aden, Rafi. </p>
+    <p> professor Cedar </p>
+    <p> rival evan </p>
   </div>
       <main> 
 </body>
   </html>
-
