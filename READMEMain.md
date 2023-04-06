@@ -23,21 +23,36 @@
   <button class="button button1" onclick="alert('Games are not yet avalable for purchase, sadley')">Buy Games</button>
 
   <br>
+      
+<section class= "Part1">
   <h2> Welcome to the Asone Region </h2>
   <p> A fan made pokemon game designed by Truegreen7. </p>
-
+<p>made based on the middle east. theme of region being fractured and different areas have different ways of life. birthplace of pokemon training so more powerful and intelegen. fayher is a polatition. </p>
   <footer></footer>
 
   <img src="https://pbs.twimg.com/media/E9pqR6zXoAgnpjR?format=jpg&name=4096x4096" alt="Asone Map" width="1000">
-
+</section>
   <br>
-
+<section class= "Part2">
   <h2> New batteling mechanic! Poketactics! </h2>
 
   <p> Add a whole new level to your pokemon batteling stratigies with Poketactics. </p>
 
   <p> *Explain how it works here* </p>
+  
+  <img src="https://i.imgur.com/uNnnLQj.png" alt="Pic of gimmic moves" width="1000">
+  
+  <p> *more explanation* </p>
+  
+   <img src="https://i.imgur.com/lCuT13B.png" alt="Pic of gimmic moves in use" width="1000">
+  
+<p> *more explanation* </p>
+</section>
 
+<section class= "Part3">
+<p> credit to ron and link to youtube </p>
+</section>
+      
   <main>
 </body>
 
