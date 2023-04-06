@@ -52,7 +52,6 @@
      <img src="https://i.imgur.com/5sWCSrp.png" alt="Metaleon" width="333.3">
   <img src="https://i.imgur.com/qtC0lZu.png" alt="Drakeon" width="333.3">
     <img src="https://i.imgur.com/OVX1uoW.png" alt="Spectreon" width="333.3">
-    
     </section>
 
   <section class= "Part6">  
