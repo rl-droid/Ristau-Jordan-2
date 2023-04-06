@@ -41,7 +41,6 @@
       <img src="https://i.imgur.com/FpcGEbF.png" alt="Camerupt" width="333.3">
      <img src="https://i.imgur.com/2EbSP06.png" alt="Furret" width="333.3">
      <img src="https://i.imgur.com/BfsToxx.png" alt="Azumarill" width="333.3">
-
     <p> Camerupt </p> 
     <p> Furret </p> 
     <p> Azumarill </p> 
