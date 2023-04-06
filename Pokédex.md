@@ -61,13 +61,10 @@
   <section class= "Part8">
     <h2> Full New Dex </h2>
     <footer></footer>
-
     <img src="https://pbs.twimg.com/media/E_qjLBZXsAAPoeq?format=jpg&name=medium" alt="Asone Dex" width="1000">
   </section>
-
-    <p> </p>
-
-        <main> 
+    <p> ??? </p>
   </body>
     </html>
+
 
