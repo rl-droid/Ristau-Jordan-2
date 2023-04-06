@@ -16,21 +16,31 @@
 
   <section class= "Part2">
      <h2> Your New Starter pokemon </h2> 
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="1000">
+     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="New Pokemon Starters" width="1000">
+      <img src="https://i.imgur.com/z5McZsS.png" alt="eleafant" width="333.3">
+     <img src="https://i.imgur.com/aG6VATZ.png" alt="Smokalf" width="333.3">
+     <img src="https://i.imgur.com/KnH93Cv.png" alt="Dolflow" width="333.3">
   </section>
 
   <section class= "Part3">
      <h2>Newley discovered pokemon</h2> 
-    <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
+    <img src="https://i.imgur.com/rPsB9NJ.png" alt="Lubbird" width="333.3">
+     <img src="https://i.imgur.com/pKzbhhe.png" alt="Mateen" width="333.3">
+     <img src="https://i.imgur.com/I5WhtfP.png" alt="Captorrent" width="333.3">
+     <img src="https://i.imgur.com/n7v4Jdt.png" alt="Tindril" width="333.3">
+    <img src="https://i.imgur.com/ydQTT42.png" alt="Vitendril" width="333.3">
+    <img src="https://i.imgur.com/T4IAlUH.png" alt="Vivitess" width="333.3">
+    <img src="https://i.imgur.com/7ZIebmo.png" alt="Madamaw"width="333.3">
+    <img src="https://i.imgur.com/ZYuTP4c.png" alt="Hopinch" width="333.3">
+     <img src="https://i.imgur.com/pXVfnk7.png" alt="Grassasin" width="333.3">
+    <img src="https://i.imgur.com/VLywZQV.png" alt="Clownine" width="333.3">
   </section>
 
   <section class= "Part4">
      <h2> New Regonal Forms </h2> 
-      <img src="https://i.imgur.com/FpcGEbF.png" width="333.3">
-     <img src="https://i.imgur.com/2EbSP06.png" width="333.3">
-     <img src="https://i.imgur.com/BfsToxx.png" width="333.3">
+      <img src="https://i.imgur.com/FpcGEbF.png" alt="Camerupt" width="333.3">
+     <img src="https://i.imgur.com/2EbSP06.png" alt="Furret" width="333.3">
+     <img src="https://i.imgur.com/BfsToxx.png" alt="Azumarill" width="333.3">
 
     <p> Camerupt </p> 
     <p> Furret </p> 
@@ -39,23 +49,26 @@
 
   <section class= "Part5">  
     <h2> New Eevee Evolutions </h2> 
-      <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-  </section>
+      <img src="https://i.imgur.com/GOCX7oT.png" alt="Alluveon" width="333.3">
+     <img src="https://i.imgur.com/5sWCSrp.png" alt="Metaleon" width="333.3">
+  <img src="https://i.imgur.com/qtC0lZu.png" alt="Drakeon" width="333.3">
+    <img src="https://i.imgur.com/OVX1uoW.png" alt="Spectreon" width="333.3">
+    
+    </section>
 
   <section class= "Part6">  
      <h2> Legendary Pokemon (boxart 3) </h2> 
-      <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
-     <img src="https://i.ytimg.com/vi/GUzVk5bPHQg/maxresdefault.jpg" alt="Starters" width="333.3">
+      <img src="https://i.imgur.com/i3EXnZi.jpg" alt="Azarera" width="333.3">
+     <img src="https://i.imgur.com/UhdWntj.jpg" alt="Shemorera" width="333.3">
+     <img src="https://i.imgur.com/NBbjGbm.jpg" alt="Emiseraph" width="333.3">
+     <img src="https://i.imgur.com/AxbrpJ1.jpg" alt="Emiseraph second form" width="333.3">
   </section>
 
   <section class= "Part7">  
     <h2> Mythicals 121-123 </h2>
-      <img src="https://i.imgur.com/YIhkdZh.png" alt="Starters" width="333.3">
-     <img src="https://i.imgur.com/V5hMfyr.png" alt="Starters" width="333.3">
-     <img src="https://i.imgur.com/ogsDX4m.png" alt="Starters" width="333.3">
+      <img src="https://i.imgur.com/YIhkdZh.png" alt="Adolusent" width="333.3">
+     <img src="https://i.imgur.com/V5hMfyr.png" alt="Cometa" width="333.3">
+     <img src="https://i.imgur.com/ogsDX4m.png" alt="Dracosmic" width="333.3">
   <section>
 
   <section class= "Part8">
@@ -66,5 +79,3 @@
     <p> ??? </p>
   </body>
     </html>
-
-
