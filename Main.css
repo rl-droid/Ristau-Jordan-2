@@ -10,26 +10,16 @@ h1{
 .Part1 {
   background-color: lightgreen;
 }
+
 .Part2 {
   background-color: red;
 }
+
 .Part3 {
   background-color: #00A36C;
 }
-.Part4 {
-  background-color: lightgreen;
-}
-.Part5 {
-  background-color: red;
-}
-.Part6 {
-  background-color: #00A36C;
-}
-.Part7 {
-  background-color: lightgreen;
-}
-.Part8 {
-  background-color: red;
+
+
 
 .button {
   background-color: crimson;
