@@ -78,3 +78,8 @@ li a.active {
 footer {
   background-color: lime;
   text-align: center;
+
+@media screen and (max-width:768px){
+  html{
+    margin:30px;
+  }
