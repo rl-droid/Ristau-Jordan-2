@@ -20,6 +20,9 @@ h1{
 .Part3 {
   background-color: #00A36C;
 }
+.Part4 {
+  background-color: #FFBF00;
+}
 .Part5 {
   background-color: #00A36C;
 }
@@ -28,6 +31,9 @@ h1{
 }
 .Part7 {
   background-color: #00A36C;
+}
+.Part8 {
+  background-color: #FFBF00;
 }
 .button {
   background-color: #DA36EB;
@@ -70,7 +76,7 @@ li a.active {
   background-color: #DA36EB;
 }
 footer {
-  background-color: mintcream;
+  background-color: lime;
   text-align: center;
 @media (max-width: 768px) {
   main {
